@@ -1,0 +1,102 @@
+% load necessary packages
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{listings}
+%\usepackage{filecontents}
+\usepackage{verbatim}
+\usepackage{eurosym}
+\usepackage[export]{adjustbox}
+\usepackage{fancyhdr}
+\usepackage{polynom}
+\usepackage{color, colortbl}
+%\definecolor{name}{system}{definition}
+\definecolor{Gray}{gray}{0.9}
+\usepackage{mathtools}
+\usepackage{xpatch}
+\usepackage{tikz-cd}
+\usepackage{tikz-network}
+\usepackage[pdf]{graphviz}
+\usepackage{graphicx}
+\usepackage{xpatch}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{subfig}
+\usepackage{float}
+\usepackage{empheq}
+\usepackage{cancel}
+\usepackage{adjustbox}
+\usepackage{braket}
+\usepackage{physics}
+
+% define my macros
+
+\newcommand*{\justify}[1]{\parbox[t]{17em}{\raggedright\strut#1\strut}}
+\newcommand{\al}{\alpha}
+\newcommand{\ord}[1]{\mathrm{ord}(#1)}
+\newcommand{\modular}[2]{#1\,\mathrm{mod}\,#2}
+\newcommand{\congr}[3]{#1 \equiv #2\,(#3)}
+\newcommand{\id}{\mathrm{Id}}
+\newcolumntype{L}{>{$}c<{$}}
+\newcommand{\idty}{\mathbf{1}}
+\newcommand{\autoset}[1]{\mathrm{Aut}(#1)}
+\newcommand{\inn}[1]{\mathrm{Inn}(#1)}
+\newcommand{\img}[1]{\mathrm{im}(#1)}
+\newcommand{\krl}[1]{\mathrm{ker}(#1)}
+\newcommand{\A}{\mathbf{A}}
+\newcommand{\B}{\mathbf{B}}
+\newcommand\m[1]{\begin{bmatrix}#1\end{bmatrix}}
+\newcommand{\detm}[1]{\begin{vmatrix}#1\end{vmatrix}}
+\newcommand{\cyc}[1]{\langle #1 \rangle}
+\newcommand{\gcdd}[2]{\mathrm{gcd}(#1,#2)}
+\newcommand{\lcm}[2]{\mathrm{lcm}(#1,#2)}
+\newcommand{\zcentr}[1]{Z(#1)}
+\newcommand{\centr}[2]{C_{#1}(#2)}
+\newcommand{\normsub}{\trianglelefteq}
+\newcommand{\subgroup}{\leq}
+\newcommand{\idx}[2]{[#1:#2]}
+\newcommand{\orb}[2]{\mathrm{Orb}_{#1}(#2)}
+\newcommand{\stab}[2]{\mathrm{Stab}_{#1}(#2)}
+\newcommand{\sylow}[2]{\mathrm{Syl}_{#1}({#2})}
+\newcommand{\np}[1]{n_{#1}}
+\newcommand{\normalizer}[2]{N_{#1}({#2})}
+\newcommand{\LHS}{\mathrm{LHS}}
+\newcommand{\RHS}{\mathrm{RHS}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\powerset}[1]{\mathcal{P}(#1)}
+% \newcommand{\l}{\left}
+% \newcommand{\r}{\right}
+\let\emptyset\varnothing
+% \newcommand\m[1]{\begin{bmatrix}#1\end{bmatrix}}
+\newcommand{\bd}{\partial}
+\newcommand{\del}{\paritial}
+\newcommand{\iif}{\Rightarrow}
+\newcommand{\ffi}{\Leftarrow}
+\newcommand{\I}{\mathbb{I}}
+\newcommand{\closure}[1]{\overline{#1}}
+\newcommand{\Del}[1]{\partial_{x_{#1}}}
+\newcommand{\Laplace}{\Delta}
+\newcommand{\divg}{\nabla\cdot}
+% \newcommand{\grad}{\nabla}
+\newcommand{\highpart}[3][]{\ifx\relax#1 \relax  \else \frac{\partial^{#1}{#2}}{\partial #3^{#1}} \fi}
+\newcommand{\dt}[1]{\frac{d}{dt}\left(#1\right)}
+\newcommand{\wholespaceint}[1]{\int_{-\infty}^{+\infty} #1\, dx}
+\newcommand{\wavefunc}{\Psi(x,t)}
+% \newcommand{\expval}[1]{\langle #1 \rangle}
+\newcommand{\parenthesis}[1]{\left(#1\right)}
+\newcommand{\paren}[1]{\left(#1\right)}
+\newcommand{\kb}{k_\mathrm{B}}
+\newcommand{\curlybra}[1]{\left\{#1\right\}}
+\newcommand{\iswint}[1]{\int_{0}^{a} #1\, dx}
+
+\newcommand{\sinbasis}[1][]{\ifx\relax#1 \relax  \else \sin\left( \frac{#1\pi x}{a} \right) \fi}
