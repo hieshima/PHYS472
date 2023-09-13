@@ -1,23 +1,6 @@
 \documentclass[11pt]{article}
 
-
 \usepackage{../mymacros}
-
-\tikzset{
-    convexset/.style = {line width = 0.75 pt, fill = orange},
-    ext/.style = {circle, inner sep=0pt, minimum size=2pt, fill=black},
-    segment/.style = {line width = 0.75 pt}
-        }
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    filecolor=magenta,      
-    urlcolor=cyan,
-    pdftitle={Overleaf Example},
-    pdfpagemode=FullScreen,
-}
-
-
 
 \setlength{\parindent}{0em}
 \setlength{\parskip}{1em}
@@ -33,9 +16,18 @@
 \cfoot{\thepage}
 
 \begin{enumerate}[label=\textbf{\arabic*}.]
-    \item 
+    \item % q1
     \begin{enumerate}
-        \item
+        \item % 1a
+            asd
+        
+        \begin{figure}[h!] % the [h!] argument attempts to place the figure here in the document
+            \centering
+            \resizebox{1\textwidth}{!}{\input{q1.pgf}} % resizes the figure to 80% of the text width while maintaining the aspect ratio
+            \caption{Description of the figure.}
+            \label{fig:my_label}
+        \end{figure}
+            
     \end{enumerate}
 \end{enumerate}
 
