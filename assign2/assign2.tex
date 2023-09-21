@@ -27,32 +27,50 @@
     \label{fig:fig1}
 \end{figure}
 
+% \begin{lstlisting}
+%     plot1 = Plot3D[
+%         4 xi2^2 Exp[-xi1^2/2 - xi2^2/2], {xi1, -3, 3}, {xi2, -3, 3}, 
+%         AxesLabel -> {Subscript[\[Xi], 1], Subscript[\[Xi], 2], 
+%         Superscript[Abs[Subscript[\[Psi], Row[{"(", Subscript[\[Xi], 1], ", ", Subscript[\[Xi], 2], ")"}]]], 2]}, PlotStyle -> Opacity[0.5], Mesh -> None, PlotRange -> All];
+
+%     plot2 = Plot3D[
+%         4 xi2^2 Exp[-xi1^2/2 - xi2^2/2] (xi1 + xi2)^2, {xi1, -3, 
+%         3}, {xi2, -3, 3}, PlotStyle -> {Opacity[0.5], Red}, Mesh -> None, PlotRange -> All];
+
+%     plot3 = Plot3D[
+%         4 xi2^2 Exp[-xi1^2/2 - xi2^2/2] (xi1 - xi2)^2, {xi1, -3, 
+%         3}, {xi2, -3, 3}, PlotStyle -> {Opacity[0.5], Blue}, Mesh -> None, PlotRange -> All];
+
+%     atDifferentPosition = Show[
+%         Legended[plot1, Placed[Style["distinguishable", FontColor -> Orange], {0.15, 0.8}]], 
+%         Legended[plot2, Placed[Style["bosons", FontColor -> Red], {0.15, 0.8}]], 
+%         Legended[plot3, Placed[Style["fermions", FontColor -> Blue], {0.15, 0.8}]],ViewPoint -> {2.7, -3.5, 2.5}]
+% \end{lstlisting}
+
 \begin{lstlisting}
-    plot1 = Plot3D[
-        4 xi2^2 Exp[-xi1^2/2 - xi2^2/2], {xi1, -3, 3}, {xi2, -3, 3}, 
-        AxesLabel -> {Subscript[\[Xi], 1], Subscript[\[Xi], 2], 
-        Superscript[Abs[Subscript[\[Psi], Row[{"(", Subscript[\[Xi], 1], ", ", Subscript[\[Xi], 2], ")"}]]], 2]}, PlotStyle -> Opacity[0.5], Mesh -> None, PlotRange -> All];
-
-    plot2 = Plot3D[
-        4 xi2^2 Exp[-xi1^2/2 - xi2^2/2] (xi1 + xi2)^2, {xi1, -3, 
-        3}, {xi2, -3, 3}, PlotStyle -> {Opacity[0.5], Red}, Mesh -> None, PlotRange -> All];
-
-    plot3 = Plot3D[
-        4 xi2^2 Exp[-xi1^2/2 - xi2^2/2] (xi1 - xi2)^2, {xi1, -3, 
-        3}, {xi2, -3, 3}, PlotStyle -> {Opacity[0.5], Blue}, Mesh -> None, PlotRange -> All];
-
-    atDifferentPosition = Show[
-        Legended[plot1, Placed[Style["distinguishable", FontColor -> Orange], {0.15, 0.8}]], 
-        Legended[plot2, Placed[Style["bosons", FontColor -> Red], {0.15, 0.8}]], 
-        Legended[plot3, Placed[Style["fermions", FontColor -> Blue], {0.15, 0.8}]],ViewPoint -> {2.7, -3.5, 2.5}]
+    distinguishable = Plot3D[4 xi2^2 Exp[-xi1^2/2 - xi2^2/2], {xi1, -3, 3}, {xi2, -3, 3}, AxesLabel -> {Subscript[\[Xi], 1], Subscript[\[Xi], 2], Superscript[Abs[Subscript[\[Psi], Row[{"(", Subscript[\[Xi], 1], ", ", Subscript[\[Xi], 2], ")"}]]], 2]}, PlotStyle -> {Opacity[1], Blue}, Mesh -> None, PlotRange -> All, ColorFunction -> Function[{x, y, z}, ColorData["Rainbow"][z]], ColorFunctionScaling -> True, Mesh -> None, ViewPoint -> {0, 0, Infinity}]
 \end{lstlisting}
 
-\begin{figure}[h!] % the [h!] argument attempts to place the figure here in the document
+\begin{lstlisting}
+    bosons = Plot3D[4 xi2^2 Exp[-xi1^2/2 - xi2^2/2] (xi1 + xi2)^2, {xi1, -3, 3}, {xi2, -3, 3}, AxesLabel -> {Subscript[\[Xi], 1], Subscript[\[Xi], 2], Superscript[Abs[Subscript[\[Psi], Row[{"(", Subscript[\[Xi], 1], ", ", Subscript[\[Xi], 2], ")"}]]], 2]}, PlotStyle -> {Opacity[1], Blue}, Mesh -> None, PlotRange -> All, ColorFunction -> Function[{x, y, z}, ColorData["Rainbow"][z]], ColorFunctionScaling -> True, Mesh -> None, ViewPoint -> {0, 0, Infinity}]
+\end{lstlisting}
+
+\begin{lstlisting}
+    fermions = Plot3D[4 xi2^2 Exp[-xi1^2/2 - xi2^2/2] (xi1 - xi2)^2, {xi1, -3, 3}, {xi2, -3, 3}, AxesLabel -> {Subscript[\[Xi], 1], Subscript[\[Xi], 2], Superscript[Abs[Subscript[\[Psi], Row[{"(", Subscript[\[Xi], 1], ", ", Subscript[\[Xi], 2], ")"}]]], 2]}, PlotStyle -> {Opacity[1], Blue}, Mesh -> None, PlotRange -> All, ColorFunction -> Function[{x, y, z}, ColorData["Rainbow"][z]], ColorFunctionScaling -> True, Mesh -> None, ViewPoint -> {0, 0, Infinity}]
+\end{lstlisting}
+
+\begin{figure}[h!]
     \centering
-    \resizebox{1\textwidth}{!}{\includegraphics{atDifferentPosition.pdf}} % resizes the figure to 80% of the text width while maintaining the aspect ratio
+    \subfloat[Distinguishable particles]{\includegraphics[width=0.3\textwidth]{atDifferentPositions_distinguishable_3d.pdf}}
+    \hfill
+    \subfloat[Bosons]{\includegraphics[width=0.3\textwidth]{atDifferentPositions_bosons_3d.pdf}}
+    \hfill
+    \subfloat[Fermions]{\includegraphics[width=0.3\textwidth]{atDifferentPositions_fermions_3d.pdf}}
     \caption{placeholder}
     \label{fig:fig2}
 \end{figure}
+
+
     
 
 

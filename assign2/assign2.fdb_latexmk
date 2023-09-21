@@ -1,17 +1,19 @@
 # Fdb version 4
-["xdvipdfmx"] 1695292630 "assign2.xdv" "assign2.pdf" "assign2" 1695292631 0
-  "assign2.xdv" 1695292630 22728 9a7cf72198e3251cba62f52b477000ce "xelatex"
+["xdvipdfmx"] 1695295697 "assign2.xdv" "assign2.pdf" "assign2" 1695295697 0
+  "assign2.xdv" 1695295696 29300 c202aec3ebc05d2672b92516e5575a94 "xelatex"
   (generated)
   "assign2.pdf"
   (rewritten before read)
-["xelatex"] 1695292629 "c:/Users/Hanbang Lu/Desktop/PHYS472/assign2/assign2.tex" "assign2.xdv" "assign2" 1695292631 0
-  "../mymacros.sty" 1695288296 4481 3c9edf8d43a4d8a89674aa03ce20051b ""
-  "assign2.aux" 1695292630 1031 9ce274c64b27f5c56a1d950c2f57fbdb "xelatex"
-  "assign2.out" 1695292630 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "assign2.tex" 1695292629 2202 8ededdf832f9dfd81d04813259b079fa ""
-  "atDifferentPosition.pdf" 1695292403 443196 b0418099c00b60164cb2bb79d08ca587 ""
+["xelatex"] 1695295695 "c:/Users/Hanbang Lu/Desktop/PHYS472/assign2/assign2.tex" "assign2.xdv" "assign2" 1695295697 0
+  "../mymacros.sty" 1695294991 4527 550092b3d71c7186101e375d3f3629fd ""
+  "assign2.aux" 1695295696 1436 5ab7111712ab0ba3465d8b03d6ba4d84 "xelatex"
+  "assign2.out" 1695295696 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "assign2.tex" 1695295694 3862 9a23682ba129de546cb02f22965fdce0 ""
+  "atDifferentPositions_bosons_3d.pdf" 1695294690 1138476 355216306e6ffc12f7dfebb5364df795 ""
+  "atDifferentPositions_distinguishable_3d.pdf" 1695294674 1247281 027966620f5e753f9aba22457d96aa44 ""
+  "atDifferentPositions_fermions_3d.pdf" 1695294700 1118370 dbff3132c6084986d2e4dbc42e552140 ""
   "atSamePosition.pdf" 1695291302 28341 b470e85d481394d8eaacacf4c9e49659 ""
-  "c:/Users/Hanbang Lu/Desktop/PHYS472/assign2/assign2.tex" 1695292629 2202 8ededdf832f9dfd81d04813259b079fa ""
+  "c:/Users/Hanbang Lu/Desktop/PHYS472/assign2/assign2.tex" 1695295694 3862 9a23682ba129de546cb02f22965fdce0 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1694315132 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1694316083 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1694314797 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -121,6 +123,7 @@
   "c:/texlive/2023/texmf-dist/tex/latex/cancel/cancel.sty" 1694314888 7592 dd751af313a16a0308545d5bfd7aaaa2 ""
   "c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty" 1694314890 55778 14d5c99aa26410e440820bb9ea5b8b3a ""
   "c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty" 1694314890 71836 1a735454ad10692452eb2f2fc37f3865 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty" 1694314890 12462 ecf33913ce1e8012075d24e1f47f0d9b ""
   "c:/texlive/2023/texmf-dist/tex/latex/collectbox/collectbox.sty" 1694314938 9124 59c3b56f1a073de66e3eea35f9c173c8 ""
   "c:/texlive/2023/texmf-dist/tex/latex/colortbl/colortbl.sty" 1694314945 12441 3b2a708337608012a865c7d9b7f05d28 ""
   "c:/texlive/2023/texmf-dist/tex/latex/datatool/datatool-base.sty" 1694314994 93620 4e9f9aa754a2337e89df3eeca1527291 ""

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.9)  21 SEP 2023 04:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.9)  21 SEP 2023 05:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -821,8 +821,15 @@ Package: empheq 2017/03/31 v2.15 Emphasizing equations
 Package: cancel 2013/04/12 v2.2 Cancel math terms
 ) (c:/texlive/2023/texmf-dist/tex/latex/braket/braket.sty) (c:/texlive/2023/texmf-dist/tex/latex/physics/physics.sty
 Package: physics 
+) (c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+LaTeX Info: Redefining \subref on input line 191.
+Package subcaption Info: The counter `subfigure' was already defined by
+(subcaption)             \newsubfloat (offered by the subfig package) on input line 239.
+Package subcaption Info: The counter `subtable' was already defined by
+(subcaption)             \newsubfloat (offered by the subfig package) on input line 239.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 66.
+Package hyperref Info: Option `colorlinks' set `true' on input line 68.
 ) (./assign2.aux)
 \openout1 = `assign2.aux'.
 
@@ -908,8 +915,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1
 
 ]
-File: atDifferentPosition.pdf Graphic file (type pdf)
-<use atDifferentPosition.pdf>
+File: atDifferentPositions_distinguishable_3d.pdf Graphic file (type pdf)
+<use atDifferentPositions_distinguishable_3d.pdf>
+File: atDifferentPositions_bosons_3d.pdf Graphic file (type pdf)
+<use atDifferentPositions_bosons_3d.pdf>
+File: atDifferentPositions_fermions_3d.pdf Graphic file (type pdf)
+<use atDifferentPositions_fermions_3d.pdf>
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -923,12 +934,12 @@ Package rerunfilecheck Info: File `assign2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32487 strings out of 476683
- 611124 string characters out of 5807576
- 2036012 words of memory out of 5000000
- 52162 multiletter control sequences out of 15000+600000
- 512663 words of font info for 35 fonts, out of 8000000 for 9000
+ 32588 strings out of 476683
+ 613853 string characters out of 5807576
+ 2116012 words of memory out of 5000000
+ 52257 multiletter control sequences out of 15000+600000
+ 512671 words of font info for 36 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,12n,147p,495b,1682s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,11n,147p,549b,1684s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on assign2.xdv (2 pages, 22728 bytes).
+Output written on assign2.xdv (2 pages, 29300 bytes).
