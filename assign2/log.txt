@@ -1,0 +1,1283 @@
+.atSamePosition.pdf8 Text line contains an invalid character.
+l.8 ...^^95^^9cK¯  U^^85  ^^U»^^I^^8d¬¸ U]$^^84^^T
+                                                  ^^89^^F  ^^P
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf8 Text line contains an invalid character.
+l.8 ...cK¯  U^^85  ^^U»^^I^^8d¬¸ U]$^^84^^T^^89^^F
+                                                    ^^P
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf8 Text line contains an invalid character.
+l.8 ...U^^85  ^^U»^^I^^8d¬¸ U]$^^84^^T^^89^^F  ^^P
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ^^D
+       J¤h§^^A4   e^^9f¸^^89P¸ c{y  5  +}   ~^^91  ˹^^    ¾ O鳦 u^^   , ^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ^^DJ¤h§^^A
+              4   e^^9f¸^^89P¸ c{y  5  +}   ~^^91  ˹^^    ¾ O鳦 u^^   , ^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...A4   e^^9f¸^^89P¸ c{y  5  +}   ~^^91  ˹^^
+                                                      ¾ O鳦 u^^   , ^^_ ^ _ ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...^89P¸ c{y  5  +}   ~^^91  ˹^^    ¾ O鳦 u^^
+                                                     , ^^_ ^ _  O_¿ ^^8f   {...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...y  5  +}   ~^^91  ˹^^    ¾ O鳦 u^^   , ^^_
+                                                   ^ _  O_¿ ^^8f   {    꺿~w...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...^^_ ^ _  O_¿ ^^8f   {    꺿~w ۿ 3  º '·¯^^
+                                                   ^^Z^^9f¿r ^^_o    p̦ ¾¾...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...^ _  O_¿ ^^8f   {    꺿~w ۿ 3  º '·¯^^ ^^Z
+                                                  ^^9f¿r ^^_o    p̦ ¾¾  I...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...8f   {    꺿~w ۿ 3  º '·¯^^ ^^Z^^9f¿r ^^_
+                                                  o    p̦ ¾¾  I e   Iw q^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ... ^^Z^^9f¿r ^^_o    p̦ ¾¾  I e   Iw q^^^
+                                                   ^^y   )C§  xܦN¯^^85^^8...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...^^9f¿r ^^_o    p̦ ¾¾  I e   Iw q^^^ ^^
+                                                  y   )C§  xܦN¯^^85^^87c^^U...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ... e   Iw q^^^ ^^y   )C§  xܦN¯^^85^^87c^^U
+                                                  ^^]¦¹^^8f rZ^^T   R  Yy...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...  Iw q^^^ ^^y   )C§  xܦN¯^^85^^87c^^U^^]
+                                                  ¦¹^^8f rZ^^T   R  Yy^^U...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...y   )C§  xܦN¯^^85^^87c^^U^^]¦¹^^8f rZ^^T
+                                                     R  Yy^^U)  ^^R^^Z^^9...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...N¯^^85^^87c^^U^^]¦¹^^8f rZ^^T   R  Yy^^U
+                                                  )  ^^R^^Z^^93£U
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...^^87c^^U^^]¦¹^^8f rZ^^T   R  Yy^^U)  ^^R
+                                                  ^^Z^^93£U
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf9 Text line contains an invalid character.
+l.9 ...7c^^U^^]¦¹^^8f rZ^^T   R  Yy^^U)  ^^R^^Z
+                                                  ^^93£U
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+.atSamePosition.pdf10 Text line contains an invalid character.
+l.10 iR¨ 2^^H
+             wi^^RZ U .)} w ^^R^^V^^9e ^^^9fµ2^^84¶^^[²Hݧ  cP^^98uJ(k$^^9...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf10 Text line contains an invalid character.
+l.10 iR¨ 2^^Hwi^^R
+                  Z U .)} w ^^R^^V^^9e ^^^9fµ2^^84¶^^[²Hݧ  cP^^98uJ(k$^^9...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+LaTeX Warning Command . invalid in math mode on input line 10.
+
+.atSamePosition.pdf10 Text line contains an invalid character.
+l.10 iR¨ 2^^Hwi^^RZ U .)} w ^^R
+                                 ^^V^^9e ^^^9fµ2^^84¶^^[²Hݧ  cP^^98uJ(k$^^9...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf10 Text line contains an invalid character.
+l.10 iR¨ 2^^Hwi^^RZ U .)} w ^^R^^V
+                                    ^^9e ^^^9fµ2^^84¶^^[²Hݧ  cP^^98uJ(k$^^9...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf10 Text line contains an invalid character.
+l.10 ...i^^RZ U .)} w ^^R^^V^^9e ^^^9fµ2^^84¶^^[
+                                                  ²Hݧ  cP^^98uJ(k$^^95ҥ´{J ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character There is no ^^84 (84) in font cmr10!
+Missing character There is no ^^89 (89) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¤ (A4) in font cmr10!
+Missing character There is no § (A7) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^9f (9F) in font cmr10!
+Missing character There is no ¸ (B8) in font cmr10!
+Missing character There is no ^^89 (89) in font cmr10!
+Missing character There is no ¸ (B8) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^91 (91) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ˹ (2F9) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¾ (BE) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no 鳦 (9CE6) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr8!
+Missing character There is no   (FFFD) in font cmr8!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¿ (BF) in font cmr8!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^8f (8F) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no 꺿 (AEBF) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ۿ (6FF) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no º (BA) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no · (B7) in font cmr10!
+Missing character There is no ¯ (AF) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^9f (9F) in font cmr10!
+Missing character There is no ¿ (BF) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ̦ (326) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¾ (BE) in font cmr10!
+Missing character There is no ¾ (BE) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no § (A7) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ܦ (726) in font cmmi10!
+Missing character There is no ¯ (AF) in font cmr10!
+Missing character There is no ^^85 (85) in font cmr10!
+Missing character There is no ^^87 (87) in font cmr10!
+Missing character There is no ¦ (A6) in font cmr10!
+Missing character There is no ¹ (B9) in font cmr10!
+Missing character There is no ^^8f (8F) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^93 (93) in font cmr10!
+Missing character There is no £ (A3) in font cmr10!
+Missing character There is no ¨ (A8) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ̇ (307) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^9e (9E) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^9f (9F) in font cmr8!
+Missing character There is no µ (B5) in font cmmi10!
+Missing character There is no ^^84 (84) in font cmr10!
+Missing character There is no ¶ (B6) in font cmr10!
+Missing character There is no ² (B2) in font cmr10!
+Missing character There is no ݧ (767) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^98 (98) in font cmr10!
+Missing character There is no ^^95 (U+0095) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ҥ (U+04A5) in font [lmroman10-regular]mapping=tex-text;!
+.atSamePosition.pdf10 Text line contains an invalid character.
+l.10 ...µ2^^84¶^^[²Hݧ  cP^^98uJ(k$^^95ҥ´{J U (^^R
+                                                     OZMB Gv %}M㒒³¾§ $¡T^^]...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf11 Text line contains an invalid character.
+l.11 ^^85߻^^9f¢^^N
+                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ^^85 (U+0085) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ߻ (U+07FB) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ^^9f (U+009F) in font [lmroman10-regular]mapping=tex-text;!
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+.atSamePosition.pdf12 Text line contains an invalid character.
+l.12 }Z¨]  p  {¼ l³±»^^]
+                         7_v^^8bLo   B  a g^^8e¤ㄙ^^@^^81Ͽ^^85 !´;}¦K
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+.atSamePosition.pdf12 Missing $ inserted.
+inserted text 
+                $
+l.12 }Z¨]  p  {¼ l³±»^^]7_
+                           v^^8bLo   B  a g^^8e¤ㄙ^^@^^81Ͽ^^85 !´;}¦K
+I've inserted a begin-mathend-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+.atSamePosition.pdf12 Text line contains an invalid character.
+l.12 ...p  {¼ l³±»^^]7_v^^8bLo   B  a g^^8e¤ㄙ^^@
+                                                  ^^81Ͽ^^85 !´;}¦K
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf12 Extra }, or forgotten $.
+l.12 ...7_v^^8bLo   B  a g^^8e¤ㄙ^^@^^81Ͽ^^85 !´;}
+                                                  ¦K
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13  ^^A
+         ^^94ή)  ;^^8f 1¥©k۾   ^^S^^Z^^874^^85=p.}    7·i #J^^9fH^^9d^^9f@ ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13  ^^A^^94ή)  ;^^8f 1¥©k۾   ^^S
+                                  ^^Z^^874^^85=p.}    7·i #J^^9fH^^9d^^9f@ ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13  ^^A^^94ή)  ;^^8f 1¥©k۾   ^^S^^Z
+                                     ^^874^^85=p.}    7·i #J^^9fH^^9d^^9f@ ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Extra }, or forgotten $.
+l.13 ...^^94ή)  ;^^8f 1¥©k۾   ^^S^^Z^^874^^85=p.}
+                                                      7·i #J^^9fH^^9d^^9f@  ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+.atSamePosition.pdf13 You can't use `macro parameter character #' in math mode.
+l.13 ...^^8f 1¥©k۾   ^^S^^Z^^874^^85=p.}    7·i #
+                                                  J^^9fH^^9d^^9f@   ^^IVС^^9...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `Ipar'.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...fH^^9d^^9f@   ^^IVС^^95 e°µ¶¢®݊¾t7F Gr©^^R
+                                                  8Ƿ  S ϼ!^^T^^Oɚ ^^O ֞{ L  ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...   ^^IVС^^95 e°µ¶¢®݊¾t7F Gr©^^R8Ƿ  S ϼ!^^T
+                                                  ^^Oɚ ^^O ֞{ L   ^^Gvl-n A¹...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...^^IVС^^95 e°µ¶¢®݊¾t7F Gr©^^R8Ƿ  S ϼ!^^T^^O
+                                                  ɚ ^^O ֞{ L   ^^Gvl-n A¹^^8...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...^^95 e°µ¶¢®݊¾t7F Gr©^^R8Ƿ  S ϼ!^^T^^Oɚ ^^O
+                                                   ֞{ L   ^^Gvl-n A¹^^8f«OȜ^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...݊¾t7F Gr©^^R8Ƿ  S ϼ!^^T^^Oɚ ^^O ֞{ L   ^^G
+                                                  vl-n A¹^^8f«OȜ^^Iu^^=^^Z+...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...^T^^Oɚ ^^O ֞{ L   ^^Gvl-n A¹^^8f«OȜ^^Iu^^
+                                                  =^^Z+¡¯p_u ^^84 ]½ 8qhܞ;[...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...Oɚ ^^O ֞{ L   ^^Gvl-n A¹^^8f«OȜ^^Iu^^=^^Z
+                                                  +¡¯p_u ^^84 ]½ 8qhܞ;[ l­;...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...^^84 ]½ 8qhܞ;[ l­;¾³k^^9eo¡ M Ja^^9f =^^D
+                                                  vIk^^R^^Gv]^^8c4iM· ^^V ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...8qhܞ;[ l­;¾³k^^9eo¡ M Ja^^9f =^^DvIk^^R
+                                                  ^^Gv]^^8c4iM· ^^V ~H^^H ' ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...ܞ;[ l­;¾³k^^9eo¡ M Ja^^9f =^^DvIk^^R^^G
+                                                  v]^^8c4iM· ^^V ~H^^H ' ^^S...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...o¡ M Ja^^9f =^^DvIk^^R^^Gv]^^8c4iM· ^^V
+                                                   ~H^^H ' ^^SZʸ±^^86^^8bQ 8...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...Ja^^9f =^^DvIk^^R^^Gv]^^8c4iM· ^^V ~H^^H
+                                                   ' ^^SZʸ±^^86^^8bQ 8h  0Kk...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ... =^^DvIk^^R^^Gv]^^8c4iM· ^^V ~H^^H ' ^^S
+                                                  Zʸ±^^86^^8bQ 8h  0Kkx^^W­...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...· ^^V ~H^^H ' ^^SZʸ±^^86^^8bQ 8h  0Kkx^^W
+                                                  ­0^^B i͸D! ;w¯¦a· E^^EwC¥퇄 
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ... ~H^^H ' ^^SZʸ±^^86^^8bQ 8h  0Kkx^^W­0^^B
+                                                   i͸D! ;w¯¦a· E^^EwC¥퇄 
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf13 Text line contains an invalid character.
+l.13 ...6^^8bQ 8h  0Kkx^^W­0^^B i͸D! ;w¯¦a· E^^E
+                                                  wC¥퇄 
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf14 Text line contains an invalid character.
+l.14 ^^Z
+        ´UD&
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf14 Misplaced alignment tab character &.
+l.14 ^^Z´UD&
+            
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple Just type `I&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ^^89 e^^K
+              kO^^88´v3 Zg Nk7  ^^X Ǝ]^^99Je  B.^^93^^B^^U^^E^^8c =L^^]²^^Z...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ^^89 e^^KkO^^88´v3 Zg Nk7  ^^X
+                                    Ǝ]^^99Je  B.^^93^^B^^U^^E^^8c =L^^]²^^Z...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...KkO^^88´v3 Zg Nk7  ^^X Ǝ]^^99Je  B.^^93^^B
+                                                  ^^U^^E^^8c =L^^]²^^Z^^^^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...^88´v3 Zg Nk7  ^^X Ǝ]^^99Je  B.^^93^^B^^U
+                                                  ^^E^^8c =L^^]²^^Z^^^^^R r^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...´v3 Zg Nk7  ^^X Ǝ]^^99Je  B.^^93^^B^^U^^E
+                                                  ^^8c =L^^]²^^Z^^^^^R r^^V...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...  ^^X Ǝ]^^99Je  B.^^93^^B^^U^^E^^8c =L^^]
+                                                  ²^^Z^^^^^R r^^V    lk  4^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...X Ǝ]^^99Je  B.^^93^^B^^U^^E^^8c =L^^]²^^Z
+                                                  ^^^^^R r^^V    lk  4^^Q^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...]^^99Je  B.^^93^^B^^U^^E^^8c =L^^]²^^Z^^^
+                                                  ^^R r^^V    lk  4^^Q^^IІ½...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...99Je  B.^^93^^B^^U^^E^^8c =L^^]²^^Z^^^^^R
+                                                   r^^V    lk  4^^Q^^IІ½2¦...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ... B.^^93^^B^^U^^E^^8c =L^^]²^^Z^^^^^R r^^
+                                                  V    lk  4^^Q^^IІ½2¦ ؁^^T...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...U^^E^^8c =L^^]²^^Z^^^^^R r^^V    lk  4^^Q
+                                                  ^^IІ½2¦ ؁^^T^^P^^8fҬ - }K...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...]²^^Z^^^^^R r^^V    lk  4^^Q^^IІ½2¦ ؁^^T
+                                                  ^^P^^8fҬ - }K^^P4z -m!  ¾...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...^Z^^^^^R r^^V    lk  4^^Q^^IІ½2¦ ؁^^T^^P
+                                                  ^^8fҬ - }K^^P4z -m!  ¾  ;...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...V    lk  4^^Q^^IІ½2¦ ؁^^T^^P^^8fҬ - }K^^P
+                                                  4z -m!  ¾  ;  scܜ^^9b{^^F...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...^^P^^8fҬ - }K^^P4z -m!  ¾  ;  scܜ^^9b{^^F
+                                                  ^^rŽ^^8eݚc   ¬.2^^U^^80 n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...^^8fҬ - }K^^P4z -m!  ¾  ;  scܜ^^9b{^^F^^
+                                                  rŽ^^8eݚc   ¬.2^^U^^80 n^^9...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf15 Text line contains an invalid character.
+l.15 ...-m!  ¾  ;  scܜ^^9b{^^F^^rŽ^^8eݚc   ¬.2^^U
+                                                  ^^80 n^^9a I»oº  j   H^^89B
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 16 replaced by U+FFFD.
+.atSamePosition.pdf16 Text line contains an invalid character.
+l.16 ^^A
+         ^^K^^82ֆ  w ^^Y {ה  Ja^^87Y.H  ;^^9e¤=O° ma^^87­} {¦a^^80    1^^82
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf16 Text line contains an invalid character.
+l.16 ^^A ^^K
+            ^^82ֆ  w ^^Y {ה  Ja^^87Y.H  ;^^9e¤=O° ma^^87­} {¦a^^80    1^^82
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf16 Text line contains an invalid character.
+l.16 ^^A ^^K^^82ֆ  w ^^Y
+                         {ה  Ja^^87Y.H  ;^^9e¤=O° ma^^87­} {¦a^^80    1^^82
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 17 replaced by U+FFFD.
+.atSamePosition.pdf17 Text line contains an invalid character.
+l.17 ¿^^8f׎^^U
+              8®^^Y·¾ ҽ§$^^D-@[  ^^]w^^V^^87 ^^Vƞb^^P d^^H¿±^^9c  g·^^Vº^^8c...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf17 Text line contains an invalid character.
+l.17 ¿^^8f׎^^U8®^^Y
+                   ·¾ ҽ§$^^D-@[  ^^]w^^V^^87 ^^Vƞb^^P d^^H¿±^^9c  g·^^Vº^^8c...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf17 Missing } inserted.
+inserted text 
+                }
+l.17 ¿^^8f׎^^U8®^^Y·¾ ҽ§$
+                         ^^D-@[  ^^]w^^V^^87 ^^Vƞb^^P d^^H¿±^^9c  g·^^Vº^^8c...
+I've inserted something that you may have forgotten.
+(See the inserted text above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+.atSamePosition.pdf17 Missing } inserted.
+inserted text 
+                }
+l.17 ¿^^8f׎^^U8®^^Y·¾ ҽ§$
+                         ^^D-@[  ^^]w^^V^^87 ^^Vƞb^^P d^^H¿±^^9c  g·^^Vº^^8c...
+I've inserted something that you may have forgotten.
+(See the inserted text above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character There is no ^^8b (8B) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^8e (8E) in font cmr10!
+Missing character There is no ¤ (A4) in font cmr10!
+Missing character There is no ㄙ (3119) in font cmmi10!
+Missing character There is no ^^81 (81) in font cmr10!
+Missing character There is no Ͽ (3FF) in font cmmi10!
+Missing character There is no ^^85 (85) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ´ (B4) in font cmr10!
+Missing character There is no ¦ (A6) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^94 (94) in font cmr10!
+Missing character There is no ή (3AE) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^8f (8F) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¥ (A5) in font cmr10!
+Missing character There is no © (A9) in font cmr10!
+Missing character There is no ۾ (6FE) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^87 (87) in font cmr10!
+Missing character There is no ^^85 (85) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no · (B7) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^9f (9F) in font cmr10!
+Missing character There is no ^^9d (9D) in font cmr10!
+Missing character There is no ^^9f (9F) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no С (421) in font cmmi10!
+Missing character There is no ^^95 (95) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ° (B0) in font cmr10!
+Missing character There is no µ (B5) in font cmmi10!
+Missing character There is no ¶ (B6) in font cmr10!
+Missing character There is no ¢ (A2) in font cmr10!
+Missing character There is no ® (AE) in font cmr10!
+Missing character There is no ݊ (74A) in font cmmi10!
+Missing character There is no ¾ (BE) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no © (A9) in font cmr10!
+Missing character There is no Ƿ (1F7) in font cmmi10!
+Missing character There is no   (A0) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ϼ (3FC) in font cmmi10!
+Missing character There is no ɚ (25A) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ֞ (59E) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¹ (B9) in font cmr10!
+Missing character There is no ^^8f (8F) in font cmr10!
+Missing character There is no « (AB) in font cmr10!
+Missing character There is no Ȝ (21C) in font cmmi10!
+Missing character There is no ¡ (A1) in font cmr10!
+Missing character There is no ¯ (AF) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^84 (84) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ½ (BD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ܞ (71E) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¾ (BE) in font cmr10!
+Missing character There is no ³ (B3) in font cmr10!
+Missing character There is no ^^9e (9E) in font cmr10!
+Missing character There is no ¡ (A1) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no  (E6CB) in font cmr10!
+Missing character There is no ^^9f (9F) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^8c (8C) in font cmr10!
+Missing character There is no · (B7) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ʸ (2B8) in font cmmi10!
+Missing character There is no ± (B1) in font cmr10!
+Missing character There is no ^^86 (86) in font cmr10!
+Missing character There is no ^^8b (8B) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ͸ (378) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¯ (AF) in font cmr10!
+Missing character There is no ¦ (A6) in font cmr10!
+Missing character There is no · (B7) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¥ (A5) in font cmr10!
+Missing character There is no 퇄 (D1C4) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ´ (B4) in font cmr10!
+Missing character There is no ^^89 (89) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^88 (88) in font cmr10!
+Missing character There is no ´ (B4) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no Ǝ (18E) in font cmmi10!
+Missing character There is no ^^99 (99) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^93 (93) in font cmr10!
+Missing character There is no ^^8c (8C) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ² (B2) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no І (406) in font cmmi10!
+Missing character There is no ½ (BD) in font cmr10!
+Missing character There is no ¦ (A6) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ؁ (601) in font cmr10!
+Missing character There is no ^^8f (8F) in font cmr10!
+Missing character There is no Ҭ (4AC) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¾ (BE) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ܜ (71C) in font cmmi10!
+Missing character There is no ^^9b (9B) in font cmr10!
+Missing character There is no Ž (17D) in font cmmi10!
+Missing character There is no ^^8e (8E) in font cmr10!
+Missing character There is no ݚ (75A) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¬ (AC) in font cmr10!
+Missing character There is no ^^80 (80) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^9a (9A) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no » (BB) in font cmr10!
+Missing character There is no º (BA) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^89 (89) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^82 (82) in font cmr10!
+Missing character There is no ֆ (586) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ה (5D4) in font cmmi10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^87 (87) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^9e (9E) in font cmr10!
+Missing character There is no ¤ (A4) in font cmr10!
+Missing character There is no ° (B0) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^87 (87) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ¦ (A6) in font cmr10!
+Missing character There is no ^^80 (80) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ^^82 (82) in font cmr10!
+Missing character There is no ¿ (BF) in font cmr10!
+Missing character There is no ^^8f (8F) in font cmr10!
+Missing character There is no ׎ (5CE) in font cmr10!
+Missing character There is no ® (AE) in font cmr10!
+Missing character There is no · (B7) in font cmr10!
+Missing character There is no ¾ (BE) in font cmr10!
+Missing character There is no   (FFFD) in font cmr10!
+Missing character There is no ҽ (4BD) in font cmmi10!
+Missing character There is no § (A7) in font cmr10!
+.atSamePosition.pdf17 Text line contains an invalid character.
+l.17 ¿^^8f׎^^U8®^^Y·¾ ҽ§$^^D
+                            -@[  ^^]w^^V^^87 ^^Vƞb^^P d^^H¿±^^9c  g·^^Vº^^8c...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf17 Text line contains an invalid character.
+l.17 ¿^^8f׎^^U8®^^Y·¾ ҽ§$^^D-@[  ^^]
+                                    w^^V^^87 ^^Vƞb^^P d^^H¿±^^9c  g·^^Vº^^8c...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf17 Text line contains an invalid character.
+l.17 ¿^^8f׎^^U8®^^Y·¾ ҽ§$^^D-@[  ^^]w^^V
+                                        ^^87 ^^Vƞb^^P d^^H¿±^^9c  g·^^Vº^^8c...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf17 Text line contains an invalid character.
+l.17 ¿^^8f׎^^U8®^^Y·¾ ҽ§$^^D-@[  ^^]w^^V^^87 ^^V
+                                                ƞb^^P d^^H¿±^^9c  g·^^Vº^^8c...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf17 Text line contains an invalid character.
+l.17 ...^^U8®^^Y·¾ ҽ§$^^D-@[  ^^]w^^V^^87 ^^Vƞb^^P
+                                                   d^^H¿±^^9c  g·^^Vº^^8cy^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf17 Text line contains an invalid character.
+l.17 ...^^Y·¾ ҽ§$^^D-@[  ^^]w^^V^^87 ^^Vƞb^^P d^^H
+                                                  ¿±^^9c  g·^^Vº^^8cy^^9c2^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf17 Text line contains an invalid character.
+l.17 ...@[  ^^]w^^V^^87 ^^Vƞb^^P d^^H¿±^^9c  g·^^V
+                                                  º^^8cy^^9c2^^97¦ Jݝ^^B)3^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf17 Text line contains an invalid character.
+l.17 ...^P d^^H¿±^^9c  g·^^Vº^^8cy^^9c2^^97¦ Jݝ^^B
+                                                  )3^^8eA  M;Ԯ пg ^˩^^94^^95...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ^^87 (U+0087) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ƞ (U+019E) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ^^9c (U+009C) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ^^8c (U+008C) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ^^9c (U+009C) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ^^97 (U+0097) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ݝ (U+075D) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no ^^8e (U+008E) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no Ԯ (U+052E) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no п (U+043F) in font [lmroman10-regular]mapping=tex-text;!
+Missing character There is no   (U+FFFD) in font [lmroman10-regular]mapping=tex-text;!
+.atSamePosition.pdf17 Missing $ inserted.
+inserted text 
+                $
+l.17 ...^^Vº^^8cy^^9c2^^97¦ Jݝ^^B)3^^8eA  M;Ԯ пg ^
+                                                  ˩^^94^^95¬p  b ^^K5¬%[ ^^O...
+I've inserted a begin-mathend-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+.atSamePosition.pdf17 Text line contains an invalid character.
+l.17 ...¦ Jݝ^^B)3^^8eA  M;Ԯ пg ^˩^^94^^95¬p  b ^^K
+                                                  5¬%[ ^^O]^^86^^Uē­ h ^^X^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
+.atSamePosition.pdf18 Text line contains an invalid character.
+l.18 ^^8dE^^T
+             ^^8f 83^^90^^Y ^^ZªX»§r^^85  ^^94°ޗP8}^^91^^ST ^^B[£QªmXAD^^81...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf18 Text line contains an invalid character.
+l.18 ^^8dE^^T^^8f 83^^90^^Y
+                            ^^ZªX»§r^^85  ^^94°ޗP8}^^91^^ST ^^B[£QªmXAD^^81...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf18 Text line contains an invalid character.
+l.18 ^^8dE^^T^^8f 83^^90^^Y ^^Z
+                               ªX»§r^^85  ^^94°ޗP8}^^91^^ST ^^B[£QªmXAD^^81...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf18 Extra }, or forgotten $.
+l.18 ...E^^T^^8f 83^^90^^Y ^^ZªX»§r^^85  ^^94°ޗP8}
+                                                  ^^91^^ST ^^B[£QªmXAD^^81^...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+.atSamePosition.pdf18 Text line contains an invalid character.
+l.18 ...f 83^^90^^Y ^^ZªX»§r^^85  ^^94°ޗP8}^^91^^S
+                                                  T ^^B[£QªmXAD^^81^^92} =²...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf18 Text line contains an invalid character.
+l.18 ...^90^^Y ^^ZªX»§r^^85  ^^94°ޗP8}^^91^^ST ^^B
+                                                  [£QªmXAD^^81^^92} =²nh7·...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf18 Extra }, or forgotten $.
+l.18 ...5  ^^94°ޗP8}^^91^^ST ^^B[£QªmXAD^^81^^92}
+                                                   =²nh7·    ^^94¦^^86O   ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+.atSamePosition.pdf18 Text line contains an invalid character.
+l.18 ...^81^^92} =²nh7·    ^^94¦^^86O    Xa° ^^
+                                                  9  Z {v+s^^V^p_'^^R^^951 ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf18 Text line contains an invalid character.
+l.18 ...nh7·    ^^94¦^^86O    Xa° ^^9  Z {v+s^^V
+                                                  ^p_'^^R^^951 e^^95^^K5^^9...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf18 Double superscript.
+recently read ^
+                 
+l.18 ...   ^^94¦^^86O    Xa° ^^9  Z {v+s^^V^p_'
+                                                  ^^R^^951 e^^95^^K5^^95¬^^...
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+.atSamePosition.pdf18 Text line contains an invalid character.
+l.18 ... ^^94¦^^86O    Xa° ^^9  Z {v+s^^V^p_'^^R
+                                                  ^^951 e^^95^^K5^^95¬^^94¢...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+.atSamePosition.pdf18 Text line contains an invalid character.
+l.18 ... Xa° ^^9  Z {v+s^^V^p_'^^R^^951 e^^95^^K
+                                                  5^^95¬^^94¢s^^9c^^Vl^^85^...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used
+ 32507 strings out of 476683
+ 611262 string characters out of 5807576
+ 1855012 words of memory out of 5000000
+ 52171 multiletter control sequences out of 15000+600000
+ 517311 words of font info for 53 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 121i,4n,147p,495b,920s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+No pages of output.
