@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.9)  21 SEP 2023 05:28
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.9)  22 SEP 2023 22:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -902,9 +902,14 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-File: atSamePosition.pdf Graphic file (type pdf)
-<use atSamePosition.pdf>
-
+LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
+ (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
+ (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -915,6 +920,42 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1
 
 ]
+Overfull \hbox (10.20541pt too wide) detected at line 84
+[]
+ []
+
+
+Overfull \hbox (16.77634pt too wide) detected at line 92
+[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3]
+File: atSamePosition.pdf Graphic file (type pdf)
+<use atSamePosition.pdf>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[4]
 File: atDifferentPositions_distinguishable_3d.pdf Graphic file (type pdf)
 <use atDifferentPositions_distinguishable_3d.pdf>
 File: atDifferentPositions_bosons_3d.pdf Graphic file (type pdf)
@@ -929,17 +970,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[2] (./assign2.aux)
+[5] (./assign2.aux)
 Package rerunfilecheck Info: File `assign2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32588 strings out of 476683
- 613853 string characters out of 5807576
- 2116012 words of memory out of 5000000
- 52257 multiletter control sequences out of 15000+600000
- 512671 words of font info for 36 fonts, out of 8000000 for 9000
+ 32647 strings out of 476683
+ 614867 string characters out of 5807576
+ 2016012 words of memory out of 5000000
+ 52292 multiletter control sequences out of 15000+600000
+ 517343 words of font info for 57 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,11n,147p,549b,1684s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,18n,147p,504b,1685s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on assign2.xdv (2 pages, 29300 bytes).
+Output written on assign2.xdv (5 pages, 55380 bytes).
